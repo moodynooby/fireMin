@@ -1,6 +1,6 @@
 ## Fire Min
 🔥 Fire Min – The Fun & Merry Browser That Puts You First! 🎉
-
+Made As a second browser for windows
 Designed for a smooth, distraction-free experience, Fire Min is packed with powerful features:
 
 ✨ **Full-Text Search** – Instantly find any page you’ve visited!
@@ -17,7 +17,6 @@ Designed for a smooth, distraction-free experience, Fire Min is packed with powe
 
 🌙 **Dark Theme** – Browse in style, day or night!
 
-🚀 Fast, fun, and fiercely private – Fire Min is your ultimate browsing companion! 🔥## Note Fire Min is designed for Windows First 
 
 <img alt="The search bar, showing information from DuckDuckGo" src="http://minbrowser.org/tour/img/searchbar_duckduckgo_answers.png" width="650"/>
 
@@ -25,18 +24,6 @@ Designed for a smooth, distraction-free experience, Fire Min is packed with powe
 
 <img alt="Reader View" src="https://user-images.githubusercontent.com/10314059/53312382-67ca7d80-387a-11e9-9ccc-88ac592c9b1c.png" width="650"/>
 
-## 🌟 **Installing Fire Min**  
-
-Getting Fire Min is easy! Grab the prebuilt binaries [here](https://github.com/minbrowser/min/releases), or if you're feeling adventurous, scroll down to learn how to build it from source!  
-
-### 🔧 **Linux Installation**  
-
-💾 **.deb File:** `sudo dpkg -i /path/to/download`  
-📦 **RPM Build:** `sudo rpm -i /path/to/download --ignoreos`  
-🖥️ **Arch Linux:** Install via [AUR](https://aur.archlinux.org/packages/min-browser-bin)  
-🍓 **Raspberry Pi:** Install from [Pi-Apps](https://github.com/Botspot/pi-apps)  
-
----
 
 ## 🚀 **Getting Started with Fire Min**  
 
@@ -103,6 +90,3 @@ Report it by opening a **[new issue](https://github.com/minbrowser/min/issues/ne
 - Translate the corresponding English text from `en-US.json`.  
 - Submit a **pull request** with your updates!  
 
----
-
-🎉 **Welcome to the Fire Min Community!** Whether you're here to browse, develop, or contribute, we’re excited to have you on board! **Let’s build the future of private, fun, and merry browsing—together!** 🔥🚀

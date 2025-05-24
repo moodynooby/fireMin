@@ -15,4 +15,5 @@ AIM TO MAKE THE BROWSER SMALLER AND FASTER
 - Removed Bootstrap ,Daisy UI
 - Made Localisation Optional
 - Removed all telemetry to not pollute upstream stats
-- Added Perfs 
+- Added Perfs configuration
+- Updated min base to till 1.35
