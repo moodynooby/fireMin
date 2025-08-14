@@ -1,5 +1,6 @@
 ## Fire Min
-🔥 Fire Min – The Fun & Merry Browser That Puts You First! 🎉
+
+🔥 Fire Min – The Fun & Merry Concept Browser That Puts You First! 🎉
 
 Designed for a smooth, distraction-free experience, Fire Min is packed with powerful features:
 
@@ -17,8 +18,8 @@ Designed for a smooth, distraction-free experience, Fire Min is packed with powe
 
 🌙 **Dark Theme** – Browse in style, day or night!
 
-🚀 Fast, fun, and fiercely private – Fire Min is your ultimate browsing companion! 🔥## Note Fire Min is designed for Windows First 
-
+🚀 Fast, fun, and fiercely private – Fire Min is your ultimate browsing companion! 🔥## Note Fire Min is designed for Windows First
+<img src="./icons/Fire_min_showcase (1).png">
 <img alt="The search bar, showing information from DuckDuckGo" src="http://minbrowser.org/tour/img/searchbar_duckduckgo_answers.png" width="650"/>
 
 <img alt="The Tasks Overlay" src="http://minbrowser.org/tour/img/tasks.png" width="650"/>
@@ -27,7 +28,7 @@ Designed for a smooth, distraction-free experience, Fire Min is packed with powe
 
 ## 🌟 **Installing Fire Min**  
 
-Getting Fire Min is easy! Grab the prebuilt binaries [here](https://github.com/minbrowser/min/releases), or if you're feeling adventurous, scroll down to learn how to build it from source!  
+Getting Fire Min is easy! Grab the prebuilt binaries  or if you're feeling adventurous, scroll down to learn how to build it from source!  
 
 ### 🔧 **Linux Installation**  
 
@@ -71,6 +72,7 @@ Once installed, use these magic spells (a.k.a. commands) to build Fire Min for y
 🎩 **Red Hat:** `npm run buildRedhat`  
 
 ⚠️ **Platform-Specific Requirements:**  
+
 - **Mac:** Install Xcode & command-line tools. Set SDK to macOS 11.0+ (`export SDKROOT=...`).  
 - **Windows:** Install Visual Studio & configure it with `npm config set msvs_version 2019`.  
 
@@ -81,9 +83,11 @@ Once installed, use these magic spells (a.k.a. commands) to build Fire Min for y
 We 💖 our contributors! If you have a great idea, found a bug, or just want to help out, here’s how you can contribute:  
 
 ### 🐞 **Found a Bug or Have a Feature Request?**  
+
 Report it by opening a **[new issue](https://github.com/minbrowser/min/issues/new/choose)!**  
 
 ### 💻 **Writing Code**  
+
 - Follow the **[development instructions](#developing)** above.  
 - Check out the **[architecture guide](https://github.com/minbrowser/min/wiki/Architecture)**.  
 - Stick to the **[Standard](https://github.com/feross/standard) coding style** (your editor likely has a plugin for auto-formatting!).  
@@ -91,6 +95,7 @@ Report it by opening a **[new issue](https://github.com/minbrowser/min/issues/ne
 ### 🌍 **Helping with Translations**  
 
 #### **Adding a New Language**  
+
 1️⃣ Find your **language code** [here](https://source.chromium.org/chromium/chromium/src/+/main:ui/base/l10n/l10n_util.cc;l=55).  
 2️⃣ Create a new file in `localization/languages` named `[your language code].json`.  
 3️⃣ Copy everything from [en-US.json](https://github.com/minbrowser/min/blob/master/localization/languages/en-US.json).  
@@ -98,11 +103,10 @@ Report it by opening a **[new issue](https://github.com/minbrowser/min/issues/ne
 5️⃣ Fire Min will automatically use your language if your system matches it!  
 
 #### **Updating an Existing Language**  
+
 - Open your language file in `localization/languages`.  
 - Look for `"null"` values or `"missing translation"` comments.  
 - Translate the corresponding English text from `en-US.json`.  
 - Submit a **pull request** with your updates!  
 
 ---
-
-🎉 **Welcome to the Fire Min Community!** Whether you're here to browse, develop, or contribute, we’re excited to have you on board! **Let’s build the future of private, fun, and merry browsing—together!** 🔥🚀
